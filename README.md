@@ -1,4 +1,4 @@
 # Ex Code
-This is my frist code
+frist calculator
 <br>
  Author - Ex-AROz
