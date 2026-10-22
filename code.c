@@ -40,21 +40,5 @@ int main()
         return 0;
     }
 
-    // Ask user for input
-    // printf("Enter two integers: ");
-    // scanf("%d %d", &num1, &num2);
-
-    // Calculate the sum
-    // sum = num1 + num2;
-
-    // A = num1 -num2;
-
-    // B = num1 * num2;
-
-    // C = num1 / num2;
-    // D = num1 % num2;
-    // Display the result
-
-    // printf("The remainder of %d and %d is: %d\n", num1, num2, D);
     return 0;
 }
